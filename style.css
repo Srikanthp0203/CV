@@ -14,3 +14,13 @@ h1 {
 h3 {
   color: red;
 }
+.burger-img {
+  width: 350px;
+  height: 300px;
+}
+.red-para {
+  color: red;
+}
+.bold-para {
+  font-weight: bold;
+}
